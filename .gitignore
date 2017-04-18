@@ -1,0 +1,10 @@
+checkpoint
+model.ckpt.data-00000-of-00001
+model.ckpt.index
+model.ckpt.meta
+lbpcascade_animeface.xml
+.vscode/
+experiment/
+experiment_/
+faces/
+logs/

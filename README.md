@@ -16,7 +16,7 @@ http://anime.udp.jp/data/lbpcascade_animeface.xml
 facesフォルダ下に分類別のフォルダを作り、その中にtestとtrainフォルダを作ってテスト用画像・訓練用画像を入れる。
 label_dictをfacesフォルダ下と合わせる。
 
-サンプルデータ
+サンプルデータ  
 https://drive.google.com/file/d/0B5BZ3u1csFVTZTRRUHd5eWdjY2c/view?usp=sharing
 
 
